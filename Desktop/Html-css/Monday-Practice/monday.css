@@ -1,0 +1,31 @@
+
+
+main {
+    background-color: purple;
+    height: 100vh;
+    color: rgb(71,74,74);
+}
+main .p {
+    background-color: green;
+}
+p {
+    min-height: 50px;
+    width: 100%;
+    background-color:rgba(230, 201,300, 1);
+}
+h1 ,h2 ,h3 {
+    color: #37393d;
+}
+footer {
+    background-color: #37393d;
+    height: 400px;
+    
+
+}
+a {
+    color: white;
+    
+}
+a:hover {
+    font-weight: bold;
+}
